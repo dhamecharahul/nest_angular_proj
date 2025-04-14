@@ -1,18 +1,18 @@
 # Run seed script
 
-1. Please make chane in the connectioon string for the MongoDB
-2. Run the seeding script to add default user and products
-    1.1 npm run seed
-3. Default user for login
-    3.1 john@example.com / Abc@1234
-    3.2 rahul@example.com / Abc@1234
-4. Install npm package in frontend and backend folder
+* Please make chane in the connectioon string for the MongoDB
+* Run the seeding script to add default user and products
+    * npm run seed
+* Default user for login
+    * john@example.com / Abc@1234
+    * rahul@example.com / Abc@1234
+* Install npm package in frontend and backend folder
 
 # Frontend
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.6.
 
-## Development server
+## Run Frontend server
 
 To start a local development server, run:
 
