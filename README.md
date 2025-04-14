@@ -9,7 +9,7 @@
 * Default user for login
     * john@example.com / Abc@1234
     * rahul@example.com / Abc@1234
-* Install npm package in frontend and backend folder
+* Install npm package in frontend and backend folder by "cd frontend && npm install" & "cd backend && npm install" 
 
 # Frontend
 
