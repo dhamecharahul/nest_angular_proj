@@ -1,3 +1,6 @@
 [submodule "frontend"]
 	path = frontend
 	url = https://github.com/dhamecharahul/nest_angular_proj/frontend
+[submodule "backend"]
+	path = backend
+	url = https://github.com/dhamecharahul/nest_angular_proj/backend
