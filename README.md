@@ -5,7 +5,7 @@
     1.1 npm run seed
 3. Default user for login
     3.1 john@example.com / Abc@1234
-    3.2 rahul@example.com / Abc@
+    3.2 rahul@example.com / Abc@1234
 4. Install npm package in frontend and backend folder
 
 # Frontend
