@@ -2,7 +2,9 @@
 
 * Please make chane in the connectioon string for the MongoDB
 * Run the seeding script to add default user and products
-    * npm run seed
+    * ```bash
+npm run seed
+```
 * Default user for login
     * john@example.com / Abc@1234
     * rahul@example.com / Abc@1234
